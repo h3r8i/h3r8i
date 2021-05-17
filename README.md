@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any junior level projects
 - 📫 How to reach me herebrt13workshop@gmail.com
 
+I have a background in Agriculture and I'm looking to improve the agri sector by integrating more with tech. 
 
 <!---
 h3r8i/h3r8i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
